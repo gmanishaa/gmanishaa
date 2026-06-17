@@ -2,7 +2,7 @@
   <img src="gifs/volumetric-rendering.gif" alt="Volumetric Cloud Rendering Engine" style="border-radius: 12px; margin-bottom: 25px; width: 100%; max-height: 400px; object-fit: cover;" />
 </div>
 
-<h1 style="border-bottom: none;">Hi there, I'm Manisha 👋</h1>
+<h1 style="border-bottom: none; font-family: 'Courier New', monospace;">Hi there, I'm Manisha ☁️</h1>
 
 I'm a recent Computer Science Honours graduate with co-op experience building full-stack and backend systems across fintech and healthcare. I see computer science as a blank canvas for building ideas, exploring new technologies, and creating solutions.
 
