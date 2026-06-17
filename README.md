@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="gifs/volumetric-rendering.gif" alt="Volumetric Cloud Rendering Engine" style="border-radius: 12px; margin-bottom: 25px; max-width: 100%;" />
+  <img src="gifs/volumetric-rendering.gif" alt="Volumetric Cloud Rendering Engine" style="border-radius: 12px; margin-bottom: 25px; width: 100%; max-height: 400px; object-fit: cover;" />
 </div>
 
 <h1 style="border-bottom: none;">Hi there, I'm Manisha 👋</h1>
